@@ -177,8 +177,9 @@
     {
       "@id": "https://repolex.ai/r/eslint/doctrine/commit/aaa37294df8b6d85c39acdae12f2a4a974d50459",
       "git:hexsha": "aaa37294df8b6d85c39acdae12f2a4a974d50459",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v2.0.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.0.1",
+      "repolex:parsedAt": "2026-09-15T09:57:13.342170+00:00"
     },
     {
       "@id": "https://repolex.ai/r/eslint/doctrine/commit/c0a1459bfd97840eeb605007b71ba8da4ffc5f2f",
